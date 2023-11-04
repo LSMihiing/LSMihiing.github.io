@@ -34,11 +34,11 @@ Li Shiming's graduate school targets include the National Astronomical Observato
 ======
 你可以在这找到我的简历：[李世明同学单薄的简历](../assets/lsmResume.pdf)
 
-You can find my resume here: [Li Shiming's Modest Resume](../assets/lsmResume.pdf)
+You can find my resume here: [Li Shiming's Modest Resume](/assets/lsmResume.pdf)
 
 联系方式(Contact Information)
 ======
 电报Telegram：[HelloLenin](https://t.me/HelloLenin)
 
-![Telegram QRcode](./image/TelegramQR)
+![Telegram QRcode](/image/TelegramQR)
 
