@@ -40,5 +40,5 @@ You can find my resume here: [Li Shiming's Modest Resume](/assets/lsmResume.pdf)
 ======
 电报Telegram：[HelloLenin](https://t.me/HelloLenin)
 
-![Telegram QRcode](/images/TelegramQR.jpg)
+![Telegram QRcode](../images/telegramQR.jpg)
 
