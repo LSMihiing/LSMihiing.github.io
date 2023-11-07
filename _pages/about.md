@@ -42,3 +42,7 @@ You can find my resume here: [Li Shiming's Modest Resume](/assets/lsmResume.pdf)
 
 ![Telegram QRcode](../images/TelegramQR.jpg)
 
+等待开发
+======
+有很多板块需要继续完善。不过表达是一方面，真的有可写的工作、成绩是另一方面。
+
